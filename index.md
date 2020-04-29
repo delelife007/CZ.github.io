@@ -1,15 +1,4 @@
-##黄彩珠
-
-###个人信息
-
-
-###项目研究
-
-
-###研究经验
-
-
-###paper
+### paper
 
 You can use the [editor on GitHub](https://github.com/stat-cz/CZ.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
